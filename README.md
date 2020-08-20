@@ -8,7 +8,7 @@ finish, making the final success contingent on the success of the deployment.
 
 ### Build Status
 
-[![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins/aws-codedeploy-plugin/master)](https://ci.jenkins.io/job/Plugins/job/aws-codedeploy-plugin/job/master/)
+[![Build Status](https://codebuild.cn-northwest-1.amazonaws.com.cn/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSEpjQXRiQ0tmcUphamVVUitWRkJjUnFDaEU0L2tQYW5WdkdYRXhRS2pHK09nRE56SjZ2WFBIbWVSdzJ1T2RqWG9JQ0VpUE5HZE1HVmhMbml0VFJkeS84PSIsIml2UGFyYW1ldGVyU3BlYyI6IkhmRlVHcFF4bG9CclA1WW4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://codebuild.cn-northwest-1.amazonaws.com.cn/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSEpjQXRiQ0tmcUphamVVUitWRkJjUnFDaEU0L2tQYW5WdkdYRXhRS2pHK09nRE56SjZ2WFBIbWVSdzJ1T2RqWG9JQ0VpUE5HZE1HVmhMbml0VFJkeS84PSIsIml2UGFyYW1ldGVyU3BlYyI6IkhmRlVHcFF4bG9CclA1WW4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 Setting up
 ----------
